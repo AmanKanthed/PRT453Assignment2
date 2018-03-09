@@ -1,0 +1,21 @@
+.body{
+	overflow-x: hidden;
+	overflow-y: hidden; 
+}
+.form{
+	margin: 40px auto;
+	min-width: 60vw;
+	min-height: 60vh;
+	border-radius: 4px;
+	box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+	padding: 5px;
+	align-content:center;
+}
+.form h3{
+	text-align: center;
+	
+}
+.tab{
+	text-align: center;
+	margin-left: 2vw;
+}
